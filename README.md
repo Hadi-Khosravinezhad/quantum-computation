@@ -5,17 +5,9 @@ A comprehensive educational booklet detailing the linear algebraic machinery, qu
 
 ---
 
-# ⚛️ Quantum Computation 
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Language-Persian-blue?style=flat-square" alt="Language" />
-  <img src="https://img.shields.io/badge/Pages-80_Pages-green?style=flat-square" alt="Pages" />
-  <img src="https://img.shields.io/badge/Format-PDF-red?style=flat-square&logo=adobeacrobatreader" alt="PDF" />
-  <img src="https://img.shields.io/badge/Status-Complete-success?style=flat-square" alt="Status" />
-</p>
-
-<p align="left">
-  <a href="Quantum_Computation_Booklet.pdf">
+### 📄 Access the Document
+> 🔗 **[📖 Click here to view / read the Booklet (PDF)](Quantum_Computation_Booklet.pdf)**  
+> *(You can read the entire PDF directly in your browser or download it from the top-right button)*
     <img src="https://img.shields.io/badge/📖_Read_Booklet-Direct_View-0A66C2?style=for-the-badge" alt="Read Booklet" />
   </a>
 </p>
