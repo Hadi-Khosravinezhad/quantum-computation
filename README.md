@@ -1,5 +1,20 @@
 # ⚛️ Quantum Computation Primer
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Language-Persian-blue?style=flat-square" alt="Language" />
+  <img src="https://img.shields.io/badge/Pages-80_Pages-green?style=flat-square" alt="Pages" />
+  <img src="https://img.shields.io/badge/Format-PDF-red?style=flat-square&logo=adobeacrobatreader" alt="PDF" />
+  <img src="https://img.shields.io/badge/Status-Complete-success?style=flat-square" alt="Status" />
+</p>
+
+<p align="left">
+  <a href="Quantum_Computation_Booklet.pdf">
+    <img src="https://img.shields.io/badge/📖_Read_Booklet-Direct_View-0A66C2?style=for-the-badge" alt="Read Booklet" />
+  </a>
+</p>
+
+# ⚛️ Quantum Computation Primer
+
 A comprehensive educational booklet detailing the linear algebraic machinery, quantum mechanical postulates, foundational quantum gates, and core algorithms of quantum information science.
 
 ---
