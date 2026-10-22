@@ -1,4 +1,11 @@
+
 # ⚛️ Quantum Computation Primer
+
+A comprehensive educational booklet detailing the linear algebraic machinery, quantum mechanical postulates, foundational quantum gates, and core algorithms of quantum information science.
+
+---
+
+# ⚛️ Quantum Computation 
 
 <p align="left">
   <img src="https://img.shields.io/badge/Language-Persian-blue?style=flat-square" alt="Language" />
@@ -12,16 +19,6 @@
     <img src="https://img.shields.io/badge/📖_Read_Booklet-Direct_View-0A66C2?style=for-the-badge" alt="Read Booklet" />
   </a>
 </p>
-
-# ⚛️ Quantum Computation Primer
-
-A comprehensive educational booklet detailing the linear algebraic machinery, quantum mechanical postulates, foundational quantum gates, and core algorithms of quantum information science.
-
----
-
-### 📄 Access the Document
-> 🔗 **[📖 Click here to view / read the Booklet (PDF)](Quantum_Computation_Booklet.pdf)**  
-> *(You can read the entire PDF directly in your browser or download it from the top-right button)*
 
 ---
 
