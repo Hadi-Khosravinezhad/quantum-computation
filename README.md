@@ -26,7 +26,7 @@ With the rapid emergence of quantum hardware and quantum optics, bridging classi
 
 ---
 
-### 📑 Summary of Covered Chapters (English Breakdown)
+### 📑 Summary of Covered Chapters 
 
 #### Chapter 1: Introduction to Quantum Computation
 - Foundations of computation, Turing machines, and information units (Bits vs. Qubits).
